@@ -296,9 +296,9 @@ You can also navigate to :menuselection:`Preferences --> Keyboard shortcuts` for
 All default shortcuts in the list are customizable when double clicked.
 
 
-==================
-Related components
-==================
+=============
+Related panes
+=============
 
 * :doc:`fileexplorer`
 * :doc:`findinfiles`
